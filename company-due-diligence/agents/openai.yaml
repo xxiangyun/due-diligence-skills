@@ -1,0 +1,4 @@
+interface:
+  display_name: "Company Due Diligence"
+  short_description: "Research and assess a company rigorously"
+  default_prompt: "Use $company-due-diligence to assess this company and produce a concise diligence memo."
